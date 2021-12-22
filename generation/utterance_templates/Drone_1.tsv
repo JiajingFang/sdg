@@ -1,0 +1,48 @@
+INFORM!!object_distance!!@	at a distance of @ m
+INFORM!!altitude!!@	at a altitude of @ m
+INFORM!!drone_speed!!@	at a speed @ m/s
+INFORM!!object_name!!@	There is a @
+INFORM!!object_moving!!@	is moving @
+INFORM!!object_ID!!@	with the ID @
+INFORM!!object_type!!@	with the type @
+INFORM!!object_inpath!!@	in the drone's flight path@
+INFORM!!object_timestamp!!@	(@)
+INFORM!!wind_speed!!@	with @
+INFORM!!pilot_experienced!!False	pilot is inexperienced
+INFORM!!pilot_experienced!!True	pilot is experienced
+INFORM!!pilot_experienced!!@	pilot is @inexperienced
+INFORM!!temperature!!@	with @
+INFORM!!distance_from_remote_control!!@	with @
+INFORM!!battery_level!!@	with @
+INFORM!!low_visibility!!False	not in low visibility
+INFORM!!low_visibility!!True	in low visibility
+INFORM!!low_visibility!!@	with @
+INFORM!!normal_frame!!False	 has a damaged frame
+INFORM!!normal_frame!!True	 has no damaged frame
+INFORM!!normal_frame!!@	 has a @damaged frame
+INFORM!!weather!!@	with @
+INFORM!!upside_down!!@	with @
+INFORM!!upside_down!!False	is upside down
+INFORM!!upside_down!!True	isn't upside down
+INFORM!!good_motor_condition!!@	with @
+INFORM!!going_backwards!!True	is going backwards
+INFORM!!going_backwards!!False	is not going backwards
+INFORM!!going_backwards!!@	with @
+INFORM!!indoor!!True	is flying indoors
+INFORM!!indoor!!False	is not flying indoors
+INFORM!!indoor!!@	with @
+INFORM!!waterproof_drone!!False	the drone is not waterproof
+INFORM!!waterproof_drone!!True	the drone is waterproof
+INFORM!!waterproof_drone!!@	with @
+INFORM!!flying_over!!@	with @
+INFORM!!lost_connection!!True	lost connection
+INFORM!!lost_connection!!False	within connection
+INFORM!!lost_connection!!@	with @
+INFORM!!risk_of_internal_damage!!True	risk of internal damage
+INFORM!!risk_of_internal_damage!!False	no risk of internal damage
+INFORM!!risk_of_internal_damage!!@	with @
+INFORM!!risk_of_human_damage!!True	risk of human damage
+INFORM!!risk_of_human_damage!!False	no risk of human damage
+INFORM!!risk_of_human_damage!!@	with @
+INFORM!!risk_of_physical_damage!!False	no risk of physical damage
+INFORM!!risk_of_physical_damage!!@	with @

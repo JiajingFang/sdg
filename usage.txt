@@ -1,0 +1,10 @@
+python ~/convert_xlsx2json.py --p1 ~/test/urban.xlsx --p2 ~/test/timestep.csv --p3 ~/test//new.json
+
+python D:/thesis_project/00000materials/2_15/modified/convert_xlsx2json.py --p1 D:/thesis_project/00000materials/2_15/modified/test/urban.xlsx --p2 D:/thesis_project/00000materials/2_15/modified/test/timestep.csv --p3 D:/thesis_project/00000materials/2_15/modified/test//new.json
+
+
+
+python D:/thesis_project/00000materials/2_15/modified/convert_xlsx2json_2_24.py --p1 D:/thesis_project/00000materials/2_15/modified/test/urban1.xlsx --p2 D:/thesis_project/00000materials/2_15/modified/test/timestep.csv --p3 D:/thesis_project/00000materials/2_15/modified/test//new.json
+
+
+python -m generation.prepare_dataset --sgd_dir D:/thesis_project/dataset \ --output_dir D:/thesis_project/output_nodl2_allex_u
